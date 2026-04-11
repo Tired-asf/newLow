@@ -13,5 +13,6 @@ public class Project1 {
         double t = sn.nextDouble();
         double compoundInterest = p * Math.pow((1 + (r / n)), n * t);
         System.out.printf("Compound Interest =$%.2f\n", compoundInterest);
+        sn.close();
     }
 }
