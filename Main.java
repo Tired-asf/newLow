@@ -17,5 +17,6 @@ public class Main {
         System.out.printf("First character of your name = %c\n", f);
         System.out.printf("Your age = %d\n", a);
         System.out.printf("Your salary = %.3f\n", s);
+        sn.close();
     }
 }
