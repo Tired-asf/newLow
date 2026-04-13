@@ -27,4 +27,4 @@ public class Project2 {
         }
         sn.close();
     }
-}<<<<<<<HEAD=======}>>>>>>>d1d40cad9b13a8b88179773b0a542ef7d70668ec>>>>>>>243876ed 210939646619744 cf790c4fea29a3976
+}
