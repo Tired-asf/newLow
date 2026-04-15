@@ -31,6 +31,5 @@ public class GuessingGame {
             }
         }
         sn.close();
-
     }
 }
